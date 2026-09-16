@@ -42,7 +42,7 @@ x-tier-reason: portfolio-lead
 x-status: defunct
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-09-15'
+modified: '2026-09-16'
 tags:
 - Company
 - DeFi
@@ -53,6 +53,7 @@ tags:
 - Cryptocurrency
 - Blockchain
 - Governance
+- Defunct
 tags_raw:
 - Company
 - DeFi
@@ -63,6 +64,7 @@ tags_raw:
 - Cryptocurrency
 - Blockchain
 - Governance
+- Defunct
 common:
 - type: GitHubOrganization
   url: https://github.com/fei-protocol
