@@ -64,10 +64,34 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Fei Protocol was an Ethereum-based decentralized finance (DeFi) protocol that launched in April 2021, introducing FEI, an algorithmic stablecoin backed by Protocol Controlled Value (PCV), alongside the TRIBE governance token. Founded by Joey Santoro, it merged with Rari Capital in December 2021 to form the Tribe DAO. Following the April 2022 Rari Fuse exploit, the Tribe DAO voted to wind down and dissolve the protocol later that year.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Fei Protocol is an on-chain smart-contract system and exposes no public REST/HTTP API, so this repo carries no OpenAPI, SDK, or hosted API artifacts. Its web properties (fei.money, docs.fei.money) are offline; the smart-contract code remains public on GitHub.
+Fei Protocol was an Ethereum-based decentralized finance (DeFi) protocol that launched in April 2021, introducing FEI, an algorithmic stablecoin backed by Protocol Controlled Value (PCV), alongside the TRIBE governance token. Founded by Joey Santoro, it merged with Rari Capital in December 2021 to form the Tribe DAO. Following the April 2022 Rari Fuse exploit, the Tribe DAO voted to wind down and dissolve the protocol later that year. Fei Protocol was backed by a16z (Andreessen Horowitz), Framework Ventures, and other investors. Its smart-contract code and documentation remain public on GitHub, but the protocol is no longer operational and its web properties (fei.money, docs.fei.money) are offline. Fei Protocol is an on-chain smart-contract system and exposes no public REST/HTTP API, so it carries no OpenAPI, SDK, or hosted API artifacts.
 
-- Backed by: a16z (Andreessen Horowitz)
-- GitHub: https://github.com/fei-protocol
-- Status: defunct (wound down 2022)
+**Areas:** Company · DeFi · Stablecoins · Ethereum · Smart Contracts · DAO · Cryptocurrency · Blockchain · Governance · Defunct
+
+## Fei Protocol on APIs.io (historical record)
+
+Everything profiled for Fei Protocol is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/fei-protocol/](https://apis.io/providers/fei-protocol/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [GitHub](https://github.com/fei-protocol)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Fei Protocol: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/fei-protocol/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
